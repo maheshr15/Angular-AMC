@@ -1,0 +1,20 @@
+.container-fluid{
+    padding: 20px;
+    
+    
+}
+.form grid{
+    float: left;
+}
+input{
+    width: 100px;
+}
+
+.mat-form-field{
+    width: 400px;
+}
+
+.mat-radio-button{
+    width: 100px;
+    display: inline-block
+}

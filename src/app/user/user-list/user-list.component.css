@@ -1,0 +1,23 @@
+table {
+    width: 90%;
+    margin: 25px;
+    
+}
+
+table td{
+    width: 80px;
+    font-size: 1rem;
+}
+  
+table th{
+    font-size: 1rem;
+}
+
+.mat-flat-button{
+    margin-left: 1rem;
+    
+}
+button{
+    margin: 25px;
+    padding-left: 20px;
+}
